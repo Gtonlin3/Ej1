@@ -31,7 +31,7 @@ export default function Home() {
     <>
     <div>
 
-      <h3><h3>Exercícios</h3></h3>
+      <h3>Exercícios</h3>
         <div>
           {profileData.map(( p, index) => (
             <GimCard 
