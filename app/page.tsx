@@ -9,21 +9,21 @@ const profileData = [
     title: 'Puxada frontal',
     info: '3 series x 12 repeticiones',
   },
-  // {
-  //   image: './2.svg',
-  //   title: 'Remada curvada',
-  //   info: '3 series x 12 repeticiones',
-  // },
-  // {
-  //   image: './3.svg',
-  //   title: 'Remada Unilateral',
-  //   info: '3 series x 12 repeticiones',
-  // },
-  // {
-  //   image: './4.svg',
-  //   title: 'Levantamento terra',
-  //   info: '3 series x 12 repeticiones',
-  // },
+  {
+    image: './2.svg',
+    title: 'Remada curvada',
+    info: '3 series x 12 repeticiones',
+  },
+  {
+    image: './3.svg',
+    title: 'Remada Unilateral',
+    info: '3 series x 12 repeticiones',
+  },
+  {
+    image: './4.svg',
+    title: 'Levantamento terra',
+    info: '3 series x 12 repeticiones',
+  },
 ]
 
 export default function Home() {
